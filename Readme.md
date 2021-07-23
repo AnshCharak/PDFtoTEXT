@@ -5,7 +5,7 @@ This program will:
 
 1. Split your PDF into pages,
 2. Extract the text from each pages, and
-3. Save them in `.txt` file.
+3. Save them in .txt file.
 
 
 ## Dependencies:
